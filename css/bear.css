@@ -3,3 +3,13 @@ body {
   background-color: salmon;
   text-align: center;
 }
+a {
+  text-decoration: none;
+  color: sienna;
+  background-color: lavender;
+  padding: 10px;
+}
+
+#description {
+  color: darkred;
+}
