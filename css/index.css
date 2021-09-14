@@ -1,6 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
-  background-color: salmon;
+  background-color: gainsboro;
   text-align: center;
 }
 a {
@@ -11,9 +11,26 @@ a {
 }
 
 #description {
-  color: darkred;
+  color: darkslateblue;
 }
 img {
-  width: 80%;
+  width: 60%;
   height: 500px;
+}
+.f {
+  width: 20%;
+  height: 350px;
+}
+.container {
+  display: flex;
+  flex-flow: row nowrap;
+  height: 250px;
+}
+.child {
+  width: 50%;
+  width: 50%;
+}
+
+.dimension {
+  padding-top: 10px;
 }
