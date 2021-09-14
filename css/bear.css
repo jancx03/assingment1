@@ -13,3 +13,8 @@ a {
 #description {
   color: darkred;
 }
+
+img {
+  width: 80%;
+  height: 500px;
+}
